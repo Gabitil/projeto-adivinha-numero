@@ -2,7 +2,7 @@
 
 ## ✅ Etapas Gerais do Projeto
 
-- [ ] Ler a proposta completa e extrair requisitos principais
+- [x] Ler a proposta completa e extrair requisitos principais
 - [x] Criar repositório **privado** no GitHub
 - [x] Compartilhar acesso com `dtirackers@gmail.com`
 - [x] Criar plano de estudo e cronograma no Obsidian
@@ -14,11 +14,11 @@
 ### Ferramentas Necessárias
 - [ ] Instalar Node.js (LTS)
 - [ ] Instalar .NET SDK (preferencialmente .NET 6 ou 7)
-- [ ] Instalar Visual Studio Code
-- [ ] Instalar Git e configurar GitHub
+- [x] Instalar Visual Studio Code
+- [x] Instalar Git e configurar GitHub
 
 ### Configuração
-- [ ] Criar repositório local do projeto
+- [x] Criar repositório local do projeto
 - [ ] Testar os comandos: `node -v`, `npm -v`, `dotnet --version`
 - [ ] Instalar extensões do VSCode para React e C#
 
