@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiAdivinha", "ApiAdivinha\ApiAdivinha.csproj", "{5746A0F6-FEA0-370C-8DC3-9DBCD2D9A481}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5746A0F6-FEA0-370C-8DC3-9DBCD2D9A481}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5746A0F6-FEA0-370C-8DC3-9DBCD2D9A481}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5746A0F6-FEA0-370C-8DC3-9DBCD2D9A481}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5746A0F6-FEA0-370C-8DC3-9DBCD2D9A481}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61C6F97F-C8E0-46B1-93FF-6CEC27FFC439}
+	EndGlobalSection
+EndGlobal

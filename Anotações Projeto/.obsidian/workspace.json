@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Planejamento.md",
+                "file": "Esclarecimentos para Lembrar/Testes automatizados unitários.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Planejamento"
+              "title": "Testes automatizados unitários"
             }
           }
         ]
@@ -170,13 +170,13 @@
   },
   "active": "c0fd8ab69ffd6c68",
   "lastOpenFiles": [
-    "Requisitos do projeto.md",
-    "Comandos do Git.md",
-    "Planejamento.md",
-    "Esclarecimentos para Lembrar/Pré e Pós-processadores de CSS.md",
-    "Esclarecimentos para Lembrar/Testes automatizados unitários.md",
     "Esclarecimentos para Lembrar/Página web harmonica.md",
     "Esclarecimentos para Lembrar/Padrões RESTful.md",
+    "Esclarecimentos para Lembrar/Pré e Pós-processadores de CSS.md",
+    "Planejamento.md",
+    "Requisitos do projeto.md",
+    "Comandos do Git.md",
+    "Esclarecimentos para Lembrar/Testes automatizados unitários.md",
     "Esclarecimentos para Lembrar/HTML Semântico.md",
     "Esclarecimentos para Lembrar"
   ]
