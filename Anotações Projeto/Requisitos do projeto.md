@@ -13,7 +13,12 @@ Jogo que o usuário tem que adivinhar um número inteiro entre 1 a 100 gerado al
 
 ## Funções Adicionais (Por Gabriel):
 
-- 
+- Não reiniciar o jogo caso o usuário falhar.
+	- O jogo vai continuar até o usuário acertar o número.
+	- O usuário terá na interface um leaderboard com:
+		- A quantidade de tentativas na rodada com o topo sendo a partida com menos tentativas.
+		- Qual o número era o correto.
+		- Quando a partida foi jogada (data e hora).
 
 # Critérios de avaliação(Da dti)
 

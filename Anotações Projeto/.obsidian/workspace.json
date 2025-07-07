@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Planejamento.md",
+                "file": "Requisitos do projeto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Planejamento"
+              "title": "Links inversos para Requisitos do projeto"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Planejamento.md",
+                "file": "Requisitos do projeto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para Planejamento"
+              "title": "Links de saída para Requisitos do projeto"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Planejamento.md",
+                "file": "Requisitos do projeto.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Planejamento"
+              "title": "Sumário de Requisitos do projeto"
             }
           }
         ]
@@ -171,8 +171,8 @@
   "active": "c0fd8ab69ffd6c68",
   "lastOpenFiles": [
     "Requisitos do projeto.md",
-    "Planejamento.md",
     "Comandos do Git.md",
+    "Planejamento.md",
     "Esclarecimentos para Lembrar/Pré e Pós-processadores de CSS.md",
     "Esclarecimentos para Lembrar/Testes automatizados unitários.md",
     "Esclarecimentos para Lembrar/Página web harmonica.md",

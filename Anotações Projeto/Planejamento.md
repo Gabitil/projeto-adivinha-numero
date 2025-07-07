@@ -12,14 +12,14 @@
 ## ⚙️ Etapa 1: Configuração do Ambiente
 
 ### Ferramentas Necessárias
-- [ ] Instalar Node.js (LTS)
-- [ ] Instalar .NET SDK (preferencialmente .NET 6 ou 7)
+- [x] Instalar Node.js (LTS)
+- [x] Instalar .NET SDK (preferencialmente .NET 6 ou 7)
 - [x] Instalar Visual Studio Code
 - [x] Instalar Git e configurar GitHub
 
 ### Configuração
 - [x] Criar repositório local do projeto
-- [ ] Testar os comandos: `node -v`, `npm -v`, `dotnet --version`
+- [x] Testar os comandos: `node -v`, `npm -v`, `dotnet --version`
 - [ ] Instalar extensões do VSCode para React e C#
 
 ---
@@ -34,8 +34,8 @@
 - [ ] Criar projeto com `create-react-app`
 
 ### C# e .NET
-- [ ] Estudar sintaxe básica de C#
-- [ ] Entender orientação a objetos
+- [x] Estudar sintaxe básica de C#
+- [x] Entender orientação a objetos
 - [ ] Aprender LINQ e manipulação de listas
 - [ ] Criar API básica com ASP.NET Core
 
