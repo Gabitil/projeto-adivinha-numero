@@ -1,8 +1,10 @@
 import React, { useState, useEffect } from "react";
+import './App.css';
 import {
   gerarNumeroSecreto,
   verificarPalpite,
 } from "./api";
+
 
 function App() {
   const [numeroSecreto, setNumeroSecreto] = useState(null);
@@ -36,28 +38,45 @@ function App() {
   }
 
   return (
-    <div style={{ maxWidth: 400, margin: "auto", padding: 20 }}>
-      <h1>Jogo da Adivinhação</h1>
-      <p>{mensagem}</p>
+    <main className="container">
+      <h1 className="titulo">Jogo da Adivinhação</h1>
 
-      <input
-        type="number"
-        value={palpite}
-        onChange={(e) => setPalpite(e.target.value)}
-        placeholder="Digite um número entre 1 e 100"
-        style={{ width: "100%", padding: 8 }}
-      />
+      <p className="mensagem">{mensagem}</p>
 
-      <button onClick={enviarPalpite} style={{ marginTop: 10, width: "100%" }}>
-        Verificar Palpite
-      </button>
+      <form
+        className="formulario"
+        onSubmit={(e) => {
+          e.preventDefault();
+          enviarPalpite();
+        }}
+      >
+        <label htmlFor="palpite" className="label">
+          Digite seu palpite:
+        </label>
 
-      <button onClick={novaRodada} style={{ marginTop: 10, width: "100%" }}>
+        <input
+          id="palpite"
+          type="number"
+          className="input"
+          value={palpite}
+          onChange={(e) => setPalpite(e.target.value)}
+          placeholder="Número entre 1 e 100"
+          required
+          min="1"
+          max="100"
+        />
+
+        <button type="submit" className="botao enviar">
+          Verificar Palpite
+        </button>
+      </form>
+
+      <button onClick={novaRodada} className="botao nova-rodada">
         Nova Rodada
       </button>
 
-      <p>Tentativas: {tentativas}</p>
-    </div>
+      <p className="tentativas">Tentativas: {tentativas}</p>
+    </main>
   );
 }
 
