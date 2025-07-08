@@ -1,6 +1,6 @@
 @ApiAdivinha_HostAddress = http://localhost:5136
 
-GET {{ApiAdivinha_HostAddress}}/weatherforecast/
+GET {{ApiAdivinha_HostAddress}}/Adivinhação/
 Accept: application/json
 
 ###

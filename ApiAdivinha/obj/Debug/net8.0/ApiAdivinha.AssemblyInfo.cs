@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApiAdivinha")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+97ed87058cc231893697e29395a38a21ee48f3e4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+98518c81d900eca492b323494e45bf7dc17f62f9")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApiAdivinha")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApiAdivinha")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
