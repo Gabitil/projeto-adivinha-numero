@@ -15,6 +15,8 @@ Este é um projeto simples de jogo da adivinhação com frontend em React e back
 
 ### 🚀 Rodando o backend (.NET)
 
+Dentro da página principal do projeto, abra o prompt de comando e faça a seguinte operação:
+
 ```bash
 # 1. Acesse a pasta da API
 cd ApiAdvinha
@@ -24,12 +26,16 @@ dotnet run --urls http://localhost:5000
 ```
 
 O backend estará disponível em: http://localhost:5000
+
 Endpoint principal: http://localhost:5000/adivinha
+
 Swagger (documentação): http://localhost:5000/swagger
 
 ---
 
 ### 🌐 Rodando o frontend (React)
+
+Dentro da página principal do projeto, abra o prompt de comando e faça a seguinte operação:
 
 ```bash
 # 1. Acesse a pasta do frontend
